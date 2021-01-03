@@ -1,0 +1,10 @@
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.Resources.resources
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.vbproj.GenerateResource.cache
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\bin\Debug\CombineFile.exe.config
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\bin\Debug\CombineFile.exe
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\bin\Debug\CombineFile.pdb
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\bin\Debug\CombineFile.xml
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.exe
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.xml
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.pdb
+C:\Users\Shirya.Sim\Desktop\CombineFile\CombineFile\obj\Debug\CombineFile.vbprojAssemblyReference.cache

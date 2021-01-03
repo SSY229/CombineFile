@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CombineFile", "CombineFile\CombineFile.vbproj", "{439AFC6A-322E-47D9-9035-B9A7300AAD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439AFC6A-322E-47D9-9035-B9A7300AAD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439AFC6A-322E-47D9-9035-B9A7300AAD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439AFC6A-322E-47D9-9035-B9A7300AAD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439AFC6A-322E-47D9-9035-B9A7300AAD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCDA063-1BB1-4577-B8A3-7808D316FF9A}
+	EndGlobalSection
+EndGlobal

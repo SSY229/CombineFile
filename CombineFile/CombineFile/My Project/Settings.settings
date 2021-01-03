@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ModuleDeveloperLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Shirya.Sim\Desktop\ComDatFile\Log</Value>
+    </Setting>
+    <Setting Name="WatchFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Shirya.Sim\Desktop\ComDatFile\WatchFolder</Value>
+    </Setting>
+    <Setting Name="DropFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Shirya.Sim\Desktop\ComDatFile\DropFolder</Value>
+    </Setting>
+    <Setting Name="ArchiveFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Shirya.Sim\Desktop\ComDatFile\ArchiveFolder</Value>
+    </Setting>
+    <Setting Name="NumberOfDays" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
